@@ -30,7 +30,7 @@ stage {
   border-radius: 12px;
   padding: 6px;
   spacing: 6px;
-  border: 2px solid transparent;
+ border: 2px solid transparent;
   transition-duration: 200ms;
   text-align: center;
   color: inherit; }
@@ -307,7 +307,7 @@ StEntry {
     margin-right: 0 !important; }
 
 .dash-label, .window-caption, .screenshot-ui-tooltip {
-  background-color: #222222;
+  background-color: #0c0c0c;
   border: 1px solid #464646;
   color: #f2f2f2;
   border-radius: 99px;
@@ -1228,7 +1228,7 @@ StScrollBar {
   .notification-banner .notification-actions {
     spacing: 0; }
   .notification-banner:hover {
-    background-color: #222222; }
+    background-color: #0c0c0c; }
   .notification-banner:active {
     background-color: #272727; }
   .notification-banner, .notification-banner:hover, .notification-banner:focus, .notification-banner:active {
@@ -1638,7 +1638,7 @@ StScrollBar {
   height: 24px; }
 
 .screenshot-ui-window-selector {
-  background-color: #222222; }
+  background-color: #0c0c0c; }
   .screenshot-ui-window-selector .screenshot-ui-window-selector-window-container {
     margin: 100px; }
   .screenshot-ui-window-selector:primary-monitor .screenshot-ui-window-selector-window-container {
@@ -2141,7 +2141,7 @@ StScrollBar {
   spacing: 12px; }
 
 #overviewGroup {
-  background-color: #222222; }
+  background-color: #0c0c0c; }
 
 .overview-controls {
   padding-bottom: 32px; }
@@ -2586,7 +2586,7 @@ StScrollBar {
 
 /* Workspace animation */
 .workspace-animation {
-  background-color: #222222; }
+  background-color: #0c0c0c; }
 
 /* Tiled window previews */
 .tile-preview {
@@ -2616,7 +2616,7 @@ StScrollBar {
   border-radius: 10px;
   box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.1);
   color: #F7F7F7;
-  background-color: #222222; }
+  background-color: #0c0c0c; }
   .keyboard-key:focus {
     color: #F7F7F7;
     background-color: #2b2934;
@@ -2642,7 +2642,7 @@ StScrollBar {
     border-color: rgba(0, 0, 0, 0.7); }
   .keyboard-key.default-key {
     color: #F7F7F7;
-    background-color: #222222;
+    background-color: #0c0c0c;
     border-radius: 10px; }
     .keyboard-key.default-key:hover {
       color: #F7F7F7;
@@ -2689,7 +2689,7 @@ StScrollBar {
   padding: 6px; }
   .keyboard-subkeys .keyboard-key {
     color: #F7F7F7;
-    background-color: #222222;
+    background-color: #0c0c0c;
     border-radius: 10px; }
     .keyboard-subkeys .keyboard-key:focus {
       color: #F7F7F7;
@@ -2891,7 +2891,7 @@ StScrollBar {
 
 /* Login Dialog */
 .login-dialog {
-  background-color: #222222; }
+  background-color: #0c0c0c; }
 
 .login-dialog-button.cancel-button {
   padding: 9px; }
@@ -3000,7 +3000,7 @@ StScrollBar {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6); }
 
 #lockDialogGroup {
-  background-color: #222222; }
+  background-color: #0c0c0c; }
 
 .unlock-dialog-clock {
   color: #f2f2f2;
