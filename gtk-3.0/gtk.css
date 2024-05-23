@@ -1648,7 +1648,7 @@ searchbar > revealer > box {
 .location-bar {
   border-style: solid;
   border-color: #181818;
-  background-color: #1d1d1d; }
+  background-color: #000000; }
   .inline-toolbar:backdrop, searchbar > revealer > box:backdrop,
   .location-bar:backdrop {
     border-color: #1c1c1c;

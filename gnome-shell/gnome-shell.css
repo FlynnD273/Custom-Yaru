@@ -515,7 +515,7 @@ StEntry {
     background-color: #3f3f3f; }
   .login-dialog-button.cancel-button:active, .login-dialog-button.switch-user-button:active, .login-dialog-button.login-dialog-auth-menu-button:active, .login-dialog-button.login-dialog-session-list-button:active, .login-dialog-button.web-login-intro-button:active {
     color: #f2f2f2;
-    background-color: #4c4c4c; }
+    background-color: #111111; }
     .login-dialog-button.cancel-button:active:hover, .login-dialog-button.switch-user-button:active:hover, .login-dialog-button.login-dialog-auth-menu-button:active:hover, .login-dialog-button.login-dialog-session-list-button:active:hover, .login-dialog-button.web-login-intro-button:active:hover {
       background-color: #565656; }
     .login-dialog-button.cancel-button:active:focus, .login-dialog-button.switch-user-button:active:focus, .login-dialog-button.login-dialog-auth-menu-button:active:focus, .login-dialog-button.login-dialog-session-list-button:active:focus, .login-dialog-button.web-login-intro-button:active:focus {
@@ -2405,7 +2405,7 @@ StScrollBar {
     background-color: #3f3f3f; }
   .app-folder:active {
     color: #f2f2f2;
-    background-color: #4c4c4c; }
+    background-color: #111111; }
     .app-folder:active:hover {
       background-color: #565656; }
     .app-folder:active:focus {
@@ -3087,7 +3087,7 @@ StScrollBar {
         background-color: #3f3f3f; }
       .login-dialog-user-list-view .login-dialog-user-list .login-dialog-user-list-item:active {
         color: #f2f2f2;
-        background-color: #4c4c4c; }
+        background-color: #111111; }
         .login-dialog-user-list-view .login-dialog-user-list .login-dialog-user-list-item:active:hover {
           background-color: #565656; }
         .login-dialog-user-list-view .login-dialog-user-list .login-dialog-user-list-item:active:focus {
