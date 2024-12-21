@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 find . -type f -exec sed -i 's/#3b3366/#3b3366/g' {} \;
 find . -type f -exec sed -i 's/#000000/#000000/g' {} \;
