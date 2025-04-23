@@ -3380,6 +3380,7 @@ StScrollBar StButton#hhandle:active {
 #panel.unlock-screen,
 #panel.login-screen {
   background-color: transparent;
+  font-weight: normal !important;
 }
 
 #panel:overview .panel-button.screen-recording-indicator,
@@ -3389,7 +3390,7 @@ StScrollBar StButton#hhandle:active {
   border: 3px solid transparent;
   background-color: transparent;
   border-radius: 999px;
-  font-weight: bold;
+  font-weight: normal !important;
   color: #fafafb;
   box-shadow: inset 0 0 0 100px #c01c28;
 }
@@ -3428,7 +3429,7 @@ StScrollBar StButton#hhandle:active {
   border: 3px solid transparent;
   background-color: transparent;
   border-radius: 999px;
-  font-weight: bold;
+  font-weight: normal;
   color: #fafafb;
   box-shadow: inset 0 0 0 100px #ff7800;
 }
@@ -3560,7 +3561,7 @@ StScrollBar StButton#hhandle:active {
   border: 3px solid transparent;
   background-color: transparent;
   border-radius: 999px;
-  font-weight: bold;
+  font-weight: normal;
   color: #fafafb;
   box-shadow: inset 0 0 0 100px transparent;
 }
@@ -3589,7 +3590,7 @@ StScrollBar StButton#hhandle:active {
   border: 3px solid transparent;
   background-color: transparent;
   border-radius: 999px;
-  font-weight: bold;
+  font-weight: normal;
   color: #fafafb;
   box-shadow: inset 0 0 0 100px transparent;
   background: none !important;
